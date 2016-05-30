@@ -8,6 +8,10 @@ simple redux, express and mongodb app
 
 ## Run App
 
+```
+run mongodb first before run this app
+```
+
 For the first
 
 ```
